@@ -72,7 +72,7 @@ Locale.add({
     tag: '标签',
     desc: '描述信息',
     back: '返回',
-    title: '标题',
+    title: '我是标题',
     status: '状态',
     button: '按钮',
     option: '选项',
